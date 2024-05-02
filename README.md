@@ -10,7 +10,6 @@
 - Supports conversion between various currencies.
 - Real-time exchange rate updates.
 - User-friendly interface with intuitive design.
-- Mobile-responsive layout for easy access on different devices.
 
 ## Technologies Used
 
